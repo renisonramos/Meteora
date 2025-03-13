@@ -1,6 +1,6 @@
 # Diário de Bordo do Projeto Meteora
 
-## 2024-05-15
+## 13-03-2025
 
 *   **Navbar:**
     *   Implementada a estrutura básica da navbar usando Bootstrap 5.
@@ -19,3 +19,9 @@
 *   Adicionar a página de detalhes do produto.
 *   Implementar o carrinho de compras.
 *   Integrar com um sistema de pagamento.
+
+## 13-03-2025 15:59
+
+*   **Cards:**
+    *   Implementada a estrutura básica dos cards com Bootstrap 5.
+   
